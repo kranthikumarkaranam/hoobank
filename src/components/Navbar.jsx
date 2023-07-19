@@ -26,7 +26,7 @@ const Navbar = () => {
         ))}
 
         <a
-          href="https://github.com"
+          href="https://github.com/kranthikumarkaranam/hoo-bank"
           target="_blank"
           rel="noreferrer"
         >
@@ -65,7 +65,7 @@ const Navbar = () => {
               className={`font-poppins font-normal cursor-pointer text-[16px] text-secondary mb-0`}
             >
               <a
-                href="https://github.com"
+                href="https://github.com/kranthikumarkaranam/hoo-bank"
                 target="_blank"
                 rel="noreferrer"
               >
