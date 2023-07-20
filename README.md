@@ -13,7 +13,7 @@
 
 <p>Experience the future of banking with HooBank. Manage your accounts, track your spending, and stay on top of your finances. Try our live demo now!</p>
 
-**Live Preview** ➡️ [Demo](https://kranthi-kumar-hoo-bank.netlify.app/)
+**Live Preview** ➡️ [Demo](https://hoobank-kranthi.netlify.app/)
 
 <br>
 <br>
