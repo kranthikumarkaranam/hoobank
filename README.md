@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/hoo-bank/image?description=1&amp;font=Source%20Code%20Pro&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fhoo-bank%2F5e330e8ca02d797fa5346c8cfb5b2f9cf99ffe70%2Fpublic%2Fhoobank.svg&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Auto" alt="project-image"></p>
+![hoobank](https://socialify.git.ci/kranthikumarkaranam/hoobank/image?description=1&font=Source%20Code%20Pro&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fhoobank%2F165dfb917eb22ebfbc4ee545b657952a6ff2246b%2Fsrc%2Fassets%2FREADME_hoobank.svg&name=1&owner=1&theme=Auto)
 
 <p align="center" id="description" >Take control of your finances with HooBank, the innovative banking app that puts you in charge. With our user-friendly interface and cutting-edge security features, you can easily manage your accounts, track your spending, and stay on top of your finances. Whether you're looking to save for the future or simply keep your budget on track, HooBank has everything you need to succeed. Try it today and experience the future of banking!</p>
 
