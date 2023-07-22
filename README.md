@@ -2,8 +2,6 @@
 
 <br>
 
-![hoobank](https://socialify.git.ci/kranthikumarkaranam/hoobank/image?description=1&font=Source%20Code%20Pro&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fhoobank%2F3d6d465323eb11c356f6b9421c8e0dfd258f23ad%2FGitHub%2520(1).svg&name=1&owner=1&theme=Auto)
-
 <p align="center" id="description" >Take control of your finances with HooBank, the innovative banking app that puts you in charge. With our user-friendly interface and cutting-edge security features, you can easily manage your accounts, track your spending, and stay on top of your finances. Whether you're looking to save for the future or simply keep your budget on track, HooBank has everything you need to succeed. Try it today and experience the future of banking!</p>
 
 <br>
